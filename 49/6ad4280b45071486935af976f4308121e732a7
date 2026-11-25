@@ -1,0 +1,36 @@
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_cache_controller.py
+  s_4d3c56be842acb::t_c65a1eca8228af 497-499
+  s_4d3c56be842acb::t_17c9713aea3cef 493-496
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_pool_assembler.py
+  s_4d3c56be842acb::t_c65a1eca8228af 985
+  s_4d3c56be842acb::t_17c9713aea3cef 58,660-767,774-776,780-782,789-793,798,976-984,986-1019,1021-1024,1049-1051,1232-1238
+python/sglang/srt/mem_cache/memory_pool_host.py
+  s_4d3c56be842acb::t_17c9713aea3cef 93-109,120-122,128-129,144-148,151-153,165-166,188-189,202-203,273,288,317-322,332-340,342-347,359-361,394-404,428-429,448-450,467-470,521-523,529-530,538-539,552-553,583-595,598-614,689,719-747,824,858-859,880-881,898-901
+python/sglang/srt/mem_cache/pool_host/base.py
+  s_4d3c56be842acb::t_17c9713aea3cef 102-106
+python/sglang/srt/mem_cache/pool_host/group.py
+  s_4d3c56be842acb::t_17c9713aea3cef 64-70
+  s_4d3c56be842acb::t_94e8b17fd96ae4 71
+python/sglang/srt/mem_cache/pool_host/dual_ended.py
+  s_4d3c56be842acb::t_527617ae8dd8fa 1-275
+test/manual/ascend/test_dsv41_dual_ended_transfer.py
+  s_4d3c56be842acb::t_4339cb695877b2 1-144
+test/registered/unit/mem_cache/test_dsv41_dual_ended.py
+  s_4d3c56be842acb::t_0ecd78257b739a 1-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "496ad4280b45071486935af976f4308121e732a7",
+  "prompts": {},
+  "sessions": {
+    "s_4d3c56be842acb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20784-e10d-7f11-a2bb-cafd07e616a9",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "LiYunkai <yunkai.li.720@gmail.com>"
+    }
+  }
+}
